@@ -1,0 +1,5 @@
+"cadark/member/Register?userId=Nguyen Tien Hung&email=hung@gmail.com&password=123456"
+{
+	"RESULT": true,
+	"user_key": 20191895 
+}

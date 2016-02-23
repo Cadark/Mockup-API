@@ -1,0 +1,33 @@
+"cadark/user_product"
+{
+  "NAME_USER_CURRENT": "Luu Diec Phi",
+  "AVAR_USER_CURRENT": "http://7-themes.com/data_images/out/68/7003742-model-makeup-beauty-girl.jpg",
+  "MAIL_USER_CURRENT": "gasbaga@gmail.com",
+  "LIST_POST_CAR_CURRENT": [
+      {
+        "IMAGE_CAR_ITEM_POST": "https://s.yimg.com/lo/api/res/1.2/POq70BmXBhzkFR9GPCCAuQ--/YXBwaWQ9bWFnYXppbmVzO3c9ODAw/https://s.yimg.com/os/en-US/cms/autos/Boldride/toyota-ft-1-concept.jpg",
+        "NAME_CAR_ITEM_POST": "Toyota Reveals 2020",
+        "PRICE_CAR_ITEM_POST": "2000000"
+      },
+      {
+        "IMAGE_CAR_ITEM_POST": "https://s.yimg.com/lo/api/res/1.2/POq70BmXBhzkFR9GPCCAuQ--/YXBwaWQ9bWFnYXppbmVzO3c9ODAw/https://s.yimg.com/os/en-US/cms/autos/Boldride/toyota-ft-1-concept.jpg",
+        "NAME_CAR_ITEM_POST": "Toyota Reveals 2020",
+        "PRICE_CAR_ITEM_POST": "2000000"
+      },
+      {
+        "IMAGE_CAR_ITEM_POST": "https://s.yimg.com/lo/api/res/1.2/POq70BmXBhzkFR9GPCCAuQ--/YXBwaWQ9bWFnYXppbmVzO3c9ODAw/https://s.yimg.com/os/en-US/cms/autos/Boldride/toyota-ft-1-concept.jpg",
+        "NAME_CAR_ITEM_POST": "Toyota Reveals 2020",
+        "PRICE_CAR_ITEM_POST": "2000000"
+      },
+      {
+        "IMAGE_CAR_ITEM_POST": "https://s.yimg.com/lo/api/res/1.2/POq70BmXBhzkFR9GPCCAuQ--/YXBwaWQ9bWFnYXppbmVzO3c9ODAw/https://s.yimg.com/os/en-US/cms/autos/Boldride/toyota-ft-1-concept.jpg",
+        "NAME_CAR_ITEM_POST": "Toyota Reveals 2020",
+        "PRICE_CAR_ITEM_POST": "2000000"
+      },
+      {
+        "IMAGE_CAR_ITEM_POST": "https://s.yimg.com/lo/api/res/1.2/POq70BmXBhzkFR9GPCCAuQ--/YXBwaWQ9bWFnYXppbmVzO3c9ODAw/https://s.yimg.com/os/en-US/cms/autos/Boldride/toyota-ft-1-concept.jpg",
+        "NAME_CAR_ITEM_POST": "Toyota Reveals 2020",
+        "PRICE_CAR_ITEM_POST": "2000000"
+      }
+    ]
+}

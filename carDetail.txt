@@ -1,0 +1,32 @@
+"cadark/products/carDetail?userId=diecphi4785&CarId=Nissan17903"
+{
+	"CAR_NAME": "Car Gtr Nissan Skyline",
+  "IMAGES_OF_CAR": [
+      "http://all4desktop.com/data_images/original/4235389-ferrari.jpg",
+      "https://m1.behance.net/rendition/modules/113504329/disp/8db6177c2eef488674f598aaaae45878.jpg",
+      "https://i.kinja-img.com/gawker-media/image/upload/rlpzlw6ympoq9tpn6txa.jpg",
+      "http://rollingutopia.com/wp-content/uploads/2015/09/bb62eacadfb2c973a46d1d4e079cfc37.jpg"
+    ],
+  "CarId": "Nissan17903",
+  "USER_IMAGE": "http://7-themes.com/data_images/out/68/7003742-model-makeup-beauty-girl.jpg",
+  "USER_NAME": "Luu Diec Phi",
+  "userId": "diecphi4785",
+  "SessionId": "12834",
+  "TOP_PRICE": "2000000",
+  "NUMS_OF_PURCHASED": "3",
+  "NUMS_OF_INTERESTED": "6",
+  "LOCATION_USER_CAR_ITEM": "117, Tran Duy Hung Street, Hanoi",
+  "PHONE_NUM_ITEM": "+84 0123 456 678",
+  "EMAIL_ITEM": "hey.hoa.vn2gmail.com",
+  "CAR_DETAIL_INFOR": {
+    "Car_maker_model": "Nissan",
+    "Car_milage": "30000 km",
+    "Fuel": "Diesel",
+    "Transmission": "Auutomatic",
+    "Number_of_doors": "4",
+    "Number_of_seats": "4",
+    "Body_color": "Orange",
+    "Interior_color": "Black"
+  },
+  "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+}

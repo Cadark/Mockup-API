@@ -1,0 +1,6 @@
+"cadark/member/Login?userid=nfbs2000@gmail.com&password=1"
+{
+	"RESULT": true,
+	"sessionId": "65536",
+	"userKey": "12428771"
+}

@@ -1,0 +1,43 @@
+"cadark/profile/ListCarPost?userid=nfbs2000&session=89973 9966&MEMBER_KEY=10111342"
+{
+  "userId": "hungnt3456",
+  "NUM_OF_POST_CURRENT": "10",
+  "LIST_POST_CAR": [
+      {
+        "IMAGE_POST_CAR_ITEM": "http://cdn.boldride.com/unique-designs/2015/peregrine-3-concept-car-by-vladimir-panchenko.720x480.Aug-09-2015_04.30.02.317903.jpg",
+        "NAME_POST_CAR_ITEM": "2008 BMW 5 Series 535i",
+        "CarId" : "Bmw234",
+        "TOP_PRICE": "2000000"
+      },
+      {
+        "IMAGE_POST_CAR_ITEM": "http://cdn.boldride.com/unique-designs/2015/peregrine-3-concept-car-by-vladimir-panchenko.720x480.Aug-09-2015_04.30.02.317903.jpg",
+        "NAME_POST_CAR_ITEM": "2008 BMW 5 Series 535i",
+        "CarId" : "Bmw234",
+        "TOP_PRICE": "2000000"
+      },
+      {
+        "IMAGE_POST_CAR_ITEM": "http://cdn.boldride.com/unique-designs/2015/peregrine-3-concept-car-by-vladimir-panchenko.720x480.Aug-09-2015_04.30.02.317903.jpg",
+        "NAME_POST_CAR_ITEM": "2008 BMW 5 Series 535i",
+        "CarId" : "Bmw234",
+        "TOP_PRICE": "2000000"
+      },
+      {
+        "IMAGE_POST_CAR_ITEM": "http://cdn.boldride.com/unique-designs/2015/peregrine-3-concept-car-by-vladimir-panchenko.720x480.Aug-09-2015_04.30.02.317903.jpg",
+        "NAME_POST_CAR_ITEM": "2008 BMW 5 Series 535i",
+        "CarId" : "Bmw234",
+        "TOP_PRICE": "2000000"
+      },
+      {
+        "IMAGE_POST_CAR_ITEM": "http://cdn.boldride.com/unique-designs/2015/peregrine-3-concept-car-by-vladimir-panchenko.720x480.Aug-09-2015_04.30.02.317903.jpg",
+        "NAME_POST_CAR_ITEM": "2008 BMW 5 Series 535i",
+        "CarId" : "Bmw234",
+        "TOP_PRICE": "2000000"
+      },
+      {
+        "IMAGE_POST_CAR_ITEM": "http://cdn.boldride.com/unique-designs/2015/peregrine-3-concept-car-by-vladimir-panchenko.720x480.Aug-09-2015_04.30.02.317903.jpg",
+        "NAME_POST_CAR_ITEM": "2008 BMW 5 Series 535i",
+        "CarId" : "Bmw234",
+        "TOP_PRICE": "2000000"
+      }
+    ]
+}

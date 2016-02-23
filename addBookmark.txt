@@ -1,0 +1,15 @@
+"cadark/Bookmark/AddBookmark?userid=nfbs20000&session=123850790&MEMBER_KEY=10111342&PRODUCT_IDX=1121&BOOKMARK_SECTION_CODE=00&BOOKMARK_SECTION_NAME_ENG=22&SERVICE_SECTION_CODE=00&SERVICE_SECTION_NAME_ENG=00"
+{
+ "result": "true",
+  "version": "1",
+  "list": [
+        {
+        "MEMBER_KEY": 10111342,
+        "PRODUCT_IDX":1121,
+        "BOOKMARK_SECTION_CODE":"00",
+        "BOOKMARK_SECTION_NAME_ENG":"22",
+        "SERVICE_SECTION_CODE":"00",
+        "SERVICE_SECTION_NAME_ENG":"00"
+         }
+      ]
+}

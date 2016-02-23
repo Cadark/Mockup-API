@@ -1,0 +1,6 @@
+"cadark/product/getAgreement"
+{
+	"result": true,
+	"version": "1",
+	"content": "The General tenancy agreement (Form 18a) is used when renting a house, unit, apartment, townhouse or houseboat A written agreement must always be used when renting, even if the person renting is family or a friend.\r\n It is the lessor/agents responsibility to organise the agreement and give a copy to the tenant before they pay any money or commit to the tenancy. A tenancy agreement must include:\r\n the name and address of the tenant, and the lessor/agent/provider/owner/manager\r\nthe dates when the agreement starts and ends (or state that the agreement is periodic)\r\n details about how the tenant should pay the rent and how much rent is to be paid\r\n details about what the tenant and the lessor/agent/provider/owner/manager can and cannot do, known as standard terms\r\n any special terms (these should be agreed in advance, e.g. that dogs are allowed but must be kept outside or carpet cleaning)\r\n On or before the day the tenant occupies the property, \r\n the tenant is required to sign the agreement and return it to the lessor/agent within 5 days of receiving it. \r\n The lessor/agent is then required to sign the agreement and return a copy to the tenant within 14 days."
+}
