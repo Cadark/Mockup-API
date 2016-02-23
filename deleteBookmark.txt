@@ -1,0 +1,6 @@
+Bookmark/deleteBookmark?userid=nfbs2000&session=123850790&MEMBER_KEY=10111342&PRODUCT_IDX=1122
+{
+  "result": "true",
+  "version": "1",
+  "product_idx": "1122"
+}
