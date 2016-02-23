@@ -1,0 +1,22 @@
+cadark/Area/getAreaWithName?GROUP_NAME=New York City
+{
+    "result": "true",
+    "version": "1",
+    "list": [
+        {
+            "AREA_DEPTH": "3",
+            "AREA_FULL_NAME_ENG": "North America>United States>New York",
+            "AREA_GROUP_NAME_ENG": "United States",
+            "AREA_IDX": "4480",
+            "AREA_NAME_ENG": "New York",
+            "AREA_ORDERBY": "32",
+            "CHILD_DEPTH_FLAG": "Y",
+            "MONETARY_SYMBOL": "$",
+            "MONETARY_UNIT": "dolar",
+            "REG_DATE": "2012-11-07 00:00:00",
+            "USE_FLAG": "Y",
+            "AREA_LATITUDE": "40.773912",
+            "AREA_LONGITUDE": "-73.971806"
+        }
+    ]
+}
