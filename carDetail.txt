@@ -1,6 +1,7 @@
-"cadark/products/carDetail?userId=diecphi4785&CarId=Nissan17903"
+"cadark/products/carDetail?userId=diecphi4785&CarId=Nissan17903&SellerId=truongphi69"
 {
-	"CAR_NAME": "Car Gtr Nissan Skyline",
+  "result" = true,
+  "CAR_NAME": "Car Gtr Nissan Skyline",
   "IMAGES_OF_CAR": [
       "http://all4desktop.com/data_images/original/4235389-ferrari.jpg",
       "https://m1.behance.net/rendition/modules/113504329/disp/8db6177c2eef488674f598aaaae45878.jpg",

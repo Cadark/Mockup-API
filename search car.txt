@@ -1,0 +1,69 @@
+"cadark/product/SearchCar?titleCar=Car Gtr Nissan&price=200000&Model=all&milage=all&Fuel=all&Transmission=all&NumofDoor=all&NumofSeat=all&BodyColor=all&InterialColor=all"
+
+{
+  "sort_by_place": "default",
+  "sort_by_date": "default",
+  "sort_by_price": "deffault",
+  "listcar_Main": [
+      {
+        "NAME_CAR": "Cars Gtr Nissan Skyline",
+        "CarId": "Nissan17903",
+        "HEART_CHECK": false,
+        "IMAGE_CAR_ITEM": "http://images.wookmark.com/147858_cars-nissan-tuning-nissan-skyline-gtr-1680x1050-wallpaper_www.wall321.com_77.jpg",
+        "NUMBERS_OF_PURCHASED_ITEM": "6",
+        "NUMBERS_OF_INTERESTED_ITEM": "12",
+        "NAME_USER_ITEM": "Luu Diec Phi",
+        "AVAR_USER_ITEM": "http://7-themes.com/data_images/out/68/7003742-model-makeup-beauty-girl.jpg",
+        "TOP_PRICE_ITEM": "2000000",
+        "PLACE_ITEM": "117 Trần Duy Hưng, Trung Hòa, Cầu Giấy, Hà Nội, Việt Nam",
+        "CALL_NUMBER_ITEM": "01285715951",
+        "MAIL_ITEM": "gasbanga@gmail.com",
+        "DESCRIPTION_ITEM": "Tiptronic 8 Levels"
+      },
+      {
+        "NAME_CAR": "Cars Gtr Nissan Skyline",
+        "CarId": "Nissan17904",
+        "HEART_CHECK": false,
+        "IMAGE_CAR_ITEM": "http://images.wookmark.com/147858_cars-nissan-tuning-nissan-skyline-gtr-1680x1050-wallpaper_www.wall321.com_77.jpg",
+        "NUMBERS_OF_PURCHASED_ITEM": "6",
+        "NUMBERS_OF_INTERESTED_ITEM": "12",
+        "NAME_USER_ITEM": "Luu Diec Phi",
+        "AVAR_USER_ITEM": "http://7-themes.com/data_images/out/68/7003742-model-makeup-beauty-girl.jpg",
+        "TOP_PRICE_ITEM": "2000000",
+        "PLACE_ITEM": "117 Trần Duy Hưng, Trung Hòa, Cầu Giấy, Hà Nội, Việt Nam",
+        "CALL_NUMBER_ITEM": "01285715951",
+        "MAIL_ITEM": "gasbanga@gmail.com",
+        "DESCRIPTION_ITEM": "Tiptronic 8 Levels"
+      },
+      {
+        "NAME_CAR": "Cars Gtr Nissan Skyline",
+        "CarId": "Nissan17905",
+        "HEART_CHECK": false,
+        "IMAGE_CAR_ITEM": "http://images.wookmark.com/147858_cars-nissan-tuning-nissan-skyline-gtr-1680x1050-wallpaper_www.wall321.com_77.jpg",
+        "NUMBERS_OF_PURCHASED_ITEM": "6",
+        "NUMBERS_OF_INTERESTED_ITEM": "12",
+        "NAME_USER_ITEM": "Luu Diec Phi",
+        "AVAR_USER_ITEM": "http://7-themes.com/data_images/out/68/7003742-model-makeup-beauty-girl.jpg",
+        "TOP_PRICE_ITEM": "2000000",
+        "PLACE_ITEM": "117 Trần Duy Hưng, Trung Hòa, Cầu Giấy, Hà Nội, Việt Nam",
+        "CALL_NUMBER_ITEM": "01285715951",
+        "MAIL_ITEM": "gasbanga@gmail.com",
+        "DESCRIPTION_ITEM": "Tiptronic 8 Levels"
+      },
+      {
+        "NAME_CAR": "Cars Gtr Nissan Skyline",
+        "CarId": "Nissan17906",
+        "HEART_CHECK": false,
+        "IMAGE_CAR_ITEM": "http://images.wookmark.com/147858_cars-nissan-tuning-nissan-skyline-gtr-1680x1050-wallpaper_www.wall321.com_77.jpg",
+        "NUMBERS_OF_PURCHASED_ITEM": "6",
+        "NUMBERS_OF_INTERESTED_ITEM": "12",
+        "NAME_USER_ITEM": "Luu Diec Phi",
+        "AVAR_USER_ITEM": "http://7-themes.com/data_images/out/68/7003742-model-makeup-beauty-girl.jpg",
+        "TOP_PRICE_ITEM": "2000000",
+        "PLACE_ITEM": "117 Trần Duy Hưng, Trung Hòa, Cầu Giấy, Hà Nội, Việt Nam",
+        "CALL_NUMBER_ITEM": "01285715951",
+        "MAIL_ITEM": "gasbanga@gmail.com",
+        "DESCRIPTION_ITEM": "Tiptronic 8 Levels"
+      }
+    ]
+}

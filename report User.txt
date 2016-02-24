@@ -1,0 +1,10 @@
+"cadark/member/ReportUser?userid=nfbs2000&session=89973
+9966&MEMBER_KEY=10111342&​ ACCUSE_CONTENT=sale fake car&ACCUSE_MEMBER_ID=nfbs2000
+&ACCUSE_TYPE_CODE=0000&ACCUSE_TYPE_NAME=aaa&ACCUSE_TYPE_NAME_ENG=
+aaa&CONTENT_IDX=1111&SERVICE_SECTION_CODE=0000&SERVICE_SECTION_NAME=
+aaaa&SERVICE_SECTION_ENG=marker"
+
+{
+	"result": true,
+	"reportState": "Success"
+}

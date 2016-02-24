@@ -1,0 +1,30 @@
+"cadark/member/UserInfor?user_key=1123456"
+
+{
+  "result": true,
+  "NAME_USER": "Luu Diec Phi",
+  "EMAIL_USER": "diecphi@gmail.com",
+  "PHONE_USER": "+84 012857164",
+  "GENDER_USER": "Female",
+  "ADDRESS_OF_USER": "117 Tran Duy Hung Street Hanoi",
+  "list_car_sales": [
+      {
+        "IMAGE_POST_CAR_ITEM": "http://cdn.boldride.com/unique-designs/2015/peregrine-3-concept-car-by-vladimir-panchenko.720x480.Aug-09-2015_04.30.02.317903.jpg",
+        "NAME_POST_CAR_ITEM": "2008 BMW 5 Series 535i",
+        "CarId" : "Bmw234",
+        "TOP_PRICE": "2000000"
+      },
+      {
+        "IMAGE_POST_CAR_ITEM": "http://cdn.boldride.com/unique-designs/2015/peregrine-3-concept-car-by-vladimir-panchenko.720x480.Aug-09-2015_04.30.02.317903.jpg",
+        "NAME_POST_CAR_ITEM": "2008 BMW 5 Series 535i",
+        "CarId" : "Bmw234",
+        "TOP_PRICE": "2000000"
+      },
+      {
+        "IMAGE_POST_CAR_ITEM": "http://cdn.boldride.com/unique-designs/2015/peregrine-3-concept-car-by-vladimir-panchenko.720x480.Aug-09-2015_04.30.02.317903.jpg",
+        "NAME_POST_CAR_ITEM": "2008 BMW 5 Series 535i",
+        "CarId" : "Bmw234",
+        "TOP_PRICE": "2000000"
+      }
+    ]
+}

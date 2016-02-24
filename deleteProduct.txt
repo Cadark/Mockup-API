@@ -1,0 +1,7 @@
+"cadark/product/DeleteProductCar?​userid=nfbs2000&session=12385
+0790&MEMBER_KEY=10111342&PRODUCT_IDX=1122 "
+
+{
+	"result": true,
+	"version": 1
+}
